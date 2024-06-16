@@ -2049,7 +2049,7 @@ function restartQuiz() {
     userAnswers = [];
     document.getElementById('correct-answers').innerText = 'Poprawne: 0';
     document.getElementById('incorrect-answers').innerText = 'Błędne: 0';
-    document.getElementById('quiz-container').innerHTML = '<button id="start-btn" class="btn btn-success">Start</button>';
+    document.getElementById('quiz-container').innerHTML = '<h2>Kliknij start aby rozpocząć test [Zarządzanie V2]</h2><button id="start-btn" class="btn btn-success">Start</button>';
     document.getElementById('quiz-container').classList.remove('d-none');
     document.getElementById('start-btn').style.display = 'inline-block';
     document.getElementById('start-btn').addEventListener('click', startQuiz);
