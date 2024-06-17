@@ -106,8 +106,126 @@ const questions = [
             {"text": "zajmują się tym jak skutki poprzedniego działania ludzie wpłyną na ich zachowania i przyszłości", "correct": true},
             {"text": "wyjaśniają dlaczego ludzie wybierają pewne warianty zachowań do zaspokajania swoich potrzeb", "correct": false}
         ]
+    },
+    {
+        "question": "Do przyczyn niepowodzeń w planowaniu należy:",
+        "answers": [
+            {"text": "przygotowanie planów przez grupe odrębną nie uczestniczy w zarządzaniu firmą", "correct": false},
+            {"text": "opracowanie zbyt prostych planów podatnych na zmiany w otoczeniu", "correct": false},
+            {"text": "przyjmowanie zmiany koniunkturalnych na rynku jako pewnik i na tej podstawie opracowanie kolejnych planów", "correct": false},
+            {"text": "nacisk na zmienne ilościowe i trendy nie do końca wiarygodne", "correct": true}
+        ]
+    },
+    {
+        "question": "Problem żeby mógł być problemem decyzyjnym musi spełniać następujące warunki:",
+        "answers": [
+            {"text": "liczba rozwiązań problemu musi być dostatecznie duża lub nieokreślona", "correct": true},
+            {"text": "rozwiązania danego problemu dostarczają korzyści finansowych", "correct": false},
+            {"text": "nie wszystkie warianty rozwiązania danego problemu są możliwe i realne", "correct": true},
+            {"text": "wybór wariantu najlepszego rozwiązania danego problemu jest łatwym procesem", "correct": false}
+        ]
+    },
+    {
+        "question": "Za wady struktury liniowo-sztabowej należy:",
+        "answers": [
+            {"text": "konflikty między kierownikami liniowymi a kierownikami komórek sztabowych i sztabowcami", "correct": true},
+            {"text": "Korzystanie przez kierowników liniowych z metod ilościowych w zarządzaniu poszczególnymi procesami", "correct": false},
+            {"text": "przestrzeganie zasady jegnoosobowego kierownictwa zachowując jasny układ władzy", "correct": false},
+            {"text": "tendencje do utożsamiania się komórek sztabowych z kierownictwem sztabowym", "correct": true}
+        ]
+    },
+    {
+        "question": "W erze gospodarki postindustrialnej (wskaż prawidłowe zdanie):",
+        "answers": [
+            {"text": "zwiększa się znaczenie tradycyjnych dziedzin przemysłu a maleje potęga sektora usług", "correct": false},
+            {"text": "Wysokiej jakości towary i usługi dostarczane są dla indywidualnych klientów", "correct": true},
+            {"text": "stopniowo zwycięża pogląd że zysk jest środkiem a nie celem działania", "correct": true},
+            {"text": "nowoczesne firmy rezygnują ze struktur spłaszczonych na rzecz scentralizowanych", "correct": false}
+        ]
+    },
+    {
+        "question": "Do czynników wpływających na rozpiętość i zasięg kierowania należą:",
+        "answers": [
+            {"text": "Zakres występowania standardowych procedur w przedsiębiorstwie", "correct": true},
+            {"text": "rodzaj występujących więzi organizacyjnych", "correct": false},
+            {"text": "kompetencje przełożonych i podwładnych w zakresie zrealizowanych prac", "correct": true},
+            {"text": "zainteresowania zawodowe pracowników i kierowników", "correct": false}
+        ]
+    },
+    {
+        "question": "Wskaż prawidłowe zdanie/a:",
+        "answers": [
+            {"text": "kolejność nurtów w zarządzaniu była następująca: klasyczny integrujący behawioralny ilościowy", "correct": false},
+            {"text": "wg teorii ERG Clayton P. Alderfer potrzeby dzieli się na: egzystencji kontaktów społecznych i przynależności", "correct": false},
+            {"text": "jednostkowe potrzeby motywacji wg D. McCellanda dzieli się na władzy afiliacji osiągnięć", "correct": false},
+            {"text": "kultura organizacji pełni funkcję: integracyjną percepcyjną i adaptacyjną", "correct": false}
+        ]
+    },
+    {
+        "question": "Która/e z wymienionych cech nie są charakterystyczne dla liberalnego stylu przewodzenia:",
+        "answers": [
+            {"text": "kierownik niechętnie przyjmuje przejawy inicjatywy ze strony podwładnych", "correct": false},
+            {"text": "kierownik stara się nie podejmować żadnych decyzji i nie uczestniczy w pracach grupy", "correct": true},
+            {"text": "kierownik pozostawia pracownikom samodzielność w realizacji ich zadań", "correct": true},
+            {"text": "jako środki wpływu na grupe kierownik stosuje przekonywanie i dyskusje grupową", "correct": false}
+        ]
+    },
+    {
+        "question": "Kontrola angażująca pracowników:",
+        "answers": [
+            {"text": "jest nastawiona na wyniki przekraczające poziom minimalny", "correct": true},
+            {"text": "jest charakterystyczna dla wysmukłych struktur i odgórnego oddziaływania", "correct": false},
+            {"text": "system nagradzania jest w niej ukierunkowany na wyniki grupowe", "correct": true},
+            {"text": "obejmuje współuczestnictwo ograniczone i formalne", "correct": false}
+        ]
+    },
+    {
+        "question": "Zaznacz prawdziwe zdanie/a:",
+        "answers": [
+            {"text": "mapa grup strategicznych zakłada że konkurencja toczy między przedsiębiorstwami wewnątrz grupy strategicznej", "correct": true},
+            {"text": "metody scenariuszowe pozwalają firmie na porównywanie własnych możliwości i szans z najbliższymi konkurentami", "correct": false},
+            {"text": "macierz BGC jest stosowana w badaniach zmian nieciągłych na rynku", "correct": false},
+            {"text": "celem analizy „5 sił Portera” jest określenie sytuacji konkurencyjnej firmy w sektorze oraz możliwości osiągania zysku", "correct": true}
+        ]
+    },
+    {
+        "question": "Szkoła planistyczna w zarządzaniu strategicznym:",
+        "answers": [
+            {"text": "preferuje sformalizowany system planowania oraz analizę SWOT", "correct": true},
+            {"text": "zakłada że budowa strategii jest racjonalnym procesem", "correct": true},
+            {"text": "poszukuje metod osiągnięcia przewagi konkurencyjnej", "correct": false},
+            {"text": "silnie akcentuje kompleksowość podejścia badawczego", "correct": false}
+        ]
+    },
+    {
+        "question": "Które zachowanie organizacji jest zgodne z nazwą:",
+        "answers": [
+            {"text": "adaptacyjne – organizacja usiłuje oddziaływać na stan otoczenia wywołuje w nim określone zdarzenia", "correct": false},
+            {"text": "reaktywne – organizacja respektuje (przyjmuje) oddziaływanie otoczenia w najprostszy sposób", "correct": true},
+            {"text": "kreatywne – organizacja podejmuje próby działań dostosowawczych do otoczenia", "correct": false},
+            {"text": "ignorujące – organizacja nie śledzi otoczenia nie respektuje jego zachowania", "correct": true}
+        ]
+    },
+    {
+        "question": "Do zalet struktury liniowej zalicza się:",
+        "answers": [
+            {"text": "Wysoką centralizację uniemożliwiającą pełne wykorzystanie zdolności indywidualnych wykonawców", "correct": true},
+            {"text": "brak możliwości pogłębiania specjalizacji w zakresie wszystkich aspektów zarządzania daną komórką", "correct": true},
+            {"text": "możliwość bezpośrednich kontaktów ze specjalistami którymi są przełożeni funkcjonalni", "correct": false},
+            {"text": "stworzenie warunków do szybkiego podejmowania decyzji i egzekwowania ich realizacji", "correct": true}
+        ]
+    },
+    {
+        "question": "Do metod stymulowania konfliktu należy:",
+        "answers": [
+            {"text": "postępowanie wbrew regułom – pozbawienie lub udostępnienie określonym osobom lub grupom informacji", "correct": true},
+            {"text": "konfrontacja – strony przedstawiają swoje poglądy rozważają przyczyne konfliktu i poszukują sposobu jego rozwiązania", "correct": false},
+            {"text": "odniesienie do przepisów – strony godzą się na rozstrzygnięcie zgodnie z literą prawa", "correct": false},
+            {"text": "zmiany w struktury organizacji – zmiana składu i reorganizacja zespołów roboczych", "correct": true}
+        ]
     }
 ];
+
 
 document.getElementById('start-btn').addEventListener('click', startQuiz);
 
