@@ -152,15 +152,15 @@ const questions = [
             {"text": "zainteresowania zawodowe pracowników i kierowników", "correct": false}
         ]
     },
-    {
-        "question": "Wskaż prawidłowe zdanie/a:",
-        "answers": [
-            {"text": "kolejność nurtów w zarządzaniu była następująca: klasyczny integrujący behawioralny ilościowy", "correct": false},
-            {"text": "wg teorii ERG Clayton P. Alderfer potrzeby dzieli się na: egzystencji kontaktów społecznych i przynależności", "correct": false},
-            {"text": "jednostkowe potrzeby motywacji wg D. McCellanda dzieli się na władzy afiliacji osiągnięć", "correct": false},
-            {"text": "kultura organizacji pełni funkcję: integracyjną percepcyjną i adaptacyjną", "correct": false}
-        ]
-    },
+    // {
+    //     "question": "Wskaż prawidłowe zdanie/a:",
+    //     "answers": [
+    //         {"text": "kolejność nurtów w zarządzaniu była następująca: klasyczny integrujący behawioralny ilościowy", "correct": false},
+    //         {"text": "wg teorii ERG Clayton P. Alderfer potrzeby dzieli się na: egzystencji kontaktów społecznych i przynależności", "correct": false},
+    //         {"text": "jednostkowe potrzeby motywacji wg D. McCellanda dzieli się na władzy afiliacji osiągnięć", "correct": false},
+    //         {"text": "kultura organizacji pełni funkcję: integracyjną percepcyjną i adaptacyjną", "correct": false}
+    //     ]
+    // },
     {
         "question": "Która/e z wymienionych cech nie są charakterystyczne dla liberalnego stylu przewodzenia:",
         "answers": [
